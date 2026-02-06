@@ -3,4 +3,4 @@ Repository for the novel code used in the publication entitled Multi-scale Molec
 
 The morphology analysis was adapted from Bieber, A. et al. In situ structural analysis reveals membrane shape transitions during autophagosome formation. Proceedings of the National Academy of Sciences 119, e2209823119 (2022).
 
-Morphology_analysis processes segmented membranes saved as .mrc files. The input membranes follow the naming convention "XYZ-COP1.mrc" or "XYZ-COP2.mrc". Plots takes the .npy output of Morphology_analysis and create the graphs depicted in the paper. 
+Morphology_analysis processes segmented membranes saved as .mrc files. The input membranes follow the naming convention "XYZ-COP1.mrc" or "XYZ-COP2.mrc". The Plots code takes the .npy output of Morphology_analysis and create the graphs depicted in the paper. 
